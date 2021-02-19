@@ -1,4 +1,4 @@
-package com.codegym;
+package com.company;
 
 public class Student {
     private int rollno;

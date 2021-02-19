@@ -1,4 +1,4 @@
-package com.codegym;
+package com.company;
 
 public class Car {
     private String name;

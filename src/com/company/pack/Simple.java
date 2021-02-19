@@ -1,6 +1,6 @@
-package pack;
+package com.company.pack;
 
-import mypack.A;
+import com.company.mypack.A;
 
 public class Simple extends A {
     public static void main(String[] args) {

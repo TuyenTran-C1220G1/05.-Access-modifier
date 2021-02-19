@@ -1,4 +1,4 @@
-package mypack;
+package com.company.mypack;
 
 public class A {
     protected int data = 40;

@@ -1,4 +1,4 @@
-package com.codegym;
+package com.company;
 
 public class TestStaticProperty {
     public static void main(String[] args) {

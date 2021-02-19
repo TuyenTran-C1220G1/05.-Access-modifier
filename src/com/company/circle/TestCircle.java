@@ -1,4 +1,4 @@
-package packcircle;
+package com.company.circle;
 
 public class TestCircle {
     public static void main(String[] args) {
